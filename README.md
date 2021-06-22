@@ -5,7 +5,7 @@
   </a> 
 </p>
 
-This repository contains my solutions to all the problems of the HDL-Bits Verilog problem set.
+This repository contains my solutions to all the problems of the HDL-Bits Verilog problem set.<br>
 At the time of making this, the problem set had a total of 178 questions.
 
 ## Contributors
