@@ -37,6 +37,6 @@ module top_module(
     
     // Output logic
     assign done = (state == DONE);
-    assign out_bytes = (done) ? data : 23'b0;
+    assign out_bytes = (done) ? data : 24'b0;
  
 endmodule
